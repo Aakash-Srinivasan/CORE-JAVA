@@ -41,14 +41,44 @@ public class multidimensionArray {
                 
             }
             System.out.println("");
-
+ 
         }
         System.out.println("***********************************************************");
-    }  
+    } 
+    public static void Sum (){
+        int [][] bucket={{1,2,3},{4,5,6},{7,8,9}};
+        int A=0;
+         for(int i=0;i<bucket.length;i++){
+            for(int j=0;j<bucket[i].length;j++){
+            A= A+bucket[i][j];
+            }
+            }
+           System.out.println("sum of the array is "+ A );
+           System.out.println("***********************************************************");
+        }
+
+        public static void Avearge (){
+        int [][] bucket={{1,2,3},{4,5,6},{7,8,9}};
+        int A=0;
+        int Avearge=0;
+         for(int i=0;i<bucket.length;i++){
+            for(int j=0;j<bucket[i].length;j++){
+            A= A+bucket[i][j];
+            }
+            }
+           Avearge=A/bucket.length;
+           System.out.println("Average of the array is "+ Avearge);
+           System.out.println("***********************************************************");
+        }
+    
+
     public static void main(String[] args) {
         normal();
         grid();
         multi();
         index();
+        Sum();
+        Avearge();
+
     }  
 }
