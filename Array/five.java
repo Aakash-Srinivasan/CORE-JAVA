@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class five {
     public static void PositiveNegative() {
         int a[]={-1,1,7,-11,-8,-9};
