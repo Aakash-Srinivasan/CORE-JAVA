@@ -50,7 +50,8 @@ public class dualloops {
         {
             System.out.print(a[j] + " ");
         }
-          System.out.println("***********************************************************"); 
+        System.out.println("");
+        System.out.println("***********************************************************"); 
     }
 
     public static void secondlargest(){
@@ -87,11 +88,11 @@ public class dualloops {
         System.out.println("***********************************************************");
     }
     public static void main(String[] args) {
-       //asc();
-       //desc();
-       //mix();
-       //secondlargest();
-       //secondsmallest();
+       asc();
+       desc();
+       mix();
+       secondlargest();
+       secondsmallest();
 
     }
     
