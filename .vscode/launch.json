@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Areas",
+            "request": "launch",
+            "mainClass": "Interface.Areas",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "Innerinterfacetwo",
+            "request": "launch",
+            "mainClass": "Interface.Innerinterfacetwo",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "colagroups",
+            "request": "launch",
+            "mainClass": "Interface.colagroups",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "dualloops",
+            "request": "launch",
+            "mainClass": "dualloops",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "five",
+            "request": "launch",
+            "mainClass": "five",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "multidimensionArray",
+            "request": "launch",
+            "mainClass": "multidimensionArray",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "name",
+            "request": "launch",
+            "mainClass": "name",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "sampleArrays",
+            "request": "launch",
+            "mainClass": "sampleArrays",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        }
+    ]
+}
