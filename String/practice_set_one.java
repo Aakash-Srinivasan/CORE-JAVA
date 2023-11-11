@@ -84,29 +84,12 @@ public class practice_set_one {
         System.out.println("");
         System.out.println("***************************************************");
     }
-
-    public static void wordcount(){
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the String : ");
-        String str =sc.next();
-        int count=1;
-        for(int i=0;i<str.length();i++) {
-			if(str.charAt(i)==',') {
-				count++;
-			}
-		}
-        System.out.println(count+" words");
-        System.out.println("");
-        System.out.println("***************************************************");
-    
-    }
         public static void main(String[] args) {
          reverse();
          duplicates();
          max();
          palindrome();
          remove();
-         wordcount();
   }
 }
 
