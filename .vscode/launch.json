@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "Buffer",
+            "request": "launch",
+            "mainClass": "Buffer",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "String.practice.practice",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "practice_set_one",
+            "request": "launch",
+            "mainClass": "String.practice_set_one",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
             "name": "practice_set_two",
             "request": "launch",
             "mainClass": "String.practice_set_two",

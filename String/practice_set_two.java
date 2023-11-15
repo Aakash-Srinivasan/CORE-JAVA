@@ -28,6 +28,8 @@ public class practice_set_two {
         String str2=sc.next();
         System.out.print("compare the string :");
         System.out.print(str1.compareTo(str2));
+        System.out.println("4");
+        System.out.println("***************************************************");
 
     }
     public static void random(){
@@ -39,6 +41,7 @@ public class practice_set_two {
 		 random = random+randomChar;
 		}
 		System.out.println(random);
+        System.out.println("***************************************************");
     }
     public static void asci(){
         Scanner sc=new Scanner(System.in);
@@ -48,6 +51,7 @@ public class practice_set_two {
             int i=ch.length-1;
             int a=ch[i];
             System.out.println(a);
+        System.out.println("***************************************************");
     }
 
 	public static void sort(){
@@ -73,6 +77,7 @@ public class practice_set_two {
 
 		System.out.println(arr);
 	}
+    System.out.println("***************************************************");
 }
 
 
