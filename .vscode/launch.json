@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "verticalSolution",
+            "request": "launch",
+            "mainClass": "UserDefinedException.verticalSolution",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "patterns",
+            "request": "launch",
+            "mainClass": "pattern.patterns",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "Exception",
+            "request": "launch",
+            "mainClass": "exception.Exception",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "main",
