@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "vectorSample",
+            "request": "launch",
+            "mainClass": "List.vectorSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "LinedlistSample",
+            "request": "launch",
+            "mainClass": "List.LinedlistSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListSample",
+            "request": "launch",
+            "mainClass": "List.ArrayListSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
             "name": "verticalSolution",
             "request": "launch",
             "mainClass": "UserDefinedException.verticalSolution",
