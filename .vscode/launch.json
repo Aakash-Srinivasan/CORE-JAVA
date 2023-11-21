@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pra_one",
+            "request": "launch",
+            "mainClass": "Practiceone.pra_one",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "hashsetSample",
+            "request": "launch",
+            "mainClass": "set.hashsetSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "LinkedhashsetSample",
+            "request": "launch",
+            "mainClass": "set.LinkedhashsetSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "treesetsample",
+            "request": "launch",
+            "mainClass": "set.treesetsample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "hashset",
+            "request": "launch",
+            "mainClass": "set.hashset",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
             "name": "vectorSample",
             "request": "launch",
             "mainClass": "List.vectorSample",
