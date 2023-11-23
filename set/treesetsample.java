@@ -16,6 +16,7 @@ public class treesetsample {
         ar.add(3);
         ar.add(6);
         ar.add(5);
+        ar.add(4);
         System.out.println(ar);
     }
     

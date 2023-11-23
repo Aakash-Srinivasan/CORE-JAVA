@@ -14,9 +14,10 @@ public class LinkedhashsetSample {
         ar.add(3);
         ar.add(6);
         ar.add(5);
-        Iterator  obj=ar.iterator();
+        System.out.println(ar);
+       /* Iterator  obj=ar.iterator();
         while (obj.hasNext()) {
             System.out.println(obj.next());
-        }
+        }*/
     }
 }

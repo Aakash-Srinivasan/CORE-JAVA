@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tmap",
+            "request": "launch",
+            "mainClass": "Map.Tmap",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "LHmap",
+            "request": "launch",
+            "mainClass": "Map.LHmap",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "Hmap",
+            "request": "launch",
+            "mainClass": "Map.Hmap",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
             "name": "pra_one",
             "request": "launch",
             "mainClass": "Practiceone.pra_one",
