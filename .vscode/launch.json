@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestFive",
+            "request": "launch",
+            "mainClass": "TestFive",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "byteArrayStreamSample",
+            "request": "launch",
+            "mainClass": "FileIO.outputstream.byteArrayStreamSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "byteArrayInputStreamSample",
+            "request": "launch",
+            "mainClass": "FileIO.inputstream.byteArrayInputStreamSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "outputstreamSample",
+            "request": "launch",
+            "mainClass": "FileIO.outputstream.outputstreamSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "fileinputStreamSample",
+            "request": "launch",
+            "mainClass": "FileIO.fileinputStreamSample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
             "name": "Tmap",
             "request": "launch",
             "mainClass": "Map.Tmap",

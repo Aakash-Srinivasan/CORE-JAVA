@@ -1,8 +1,4 @@
 import java.util.*;
-
-import String.practice.practice;
-
-import java.lang.*;
 public class Buffer {
     public static void practices() {
     String swapone=new String("Srinivasan");
