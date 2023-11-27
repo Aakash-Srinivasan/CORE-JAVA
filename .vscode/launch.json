@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SynchronisationSampleMain",
+            "request": "launch",
+            "mainClass": "Threads.SynchronisationSampleMain",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "threadprocess",
+            "request": "launch",
+            "mainClass": "Threads.threadprocess",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "threadsample",
+            "request": "launch",
+            "mainClass": "Threads.threadsample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
             "name": "TestFive",
             "request": "launch",
             "mainClass": "TestFive",
