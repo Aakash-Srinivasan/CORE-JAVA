@@ -10,8 +10,8 @@ public class threadsample extends Thread{
        
     }
     public void start(){
-        System.out.println("Theread Started");
-        Thread actualT=new Thread();
+        System.out.println("Thread Started");
+        Thread actualT=new Thread(this,"");
         actualT.run(); 
         
     }

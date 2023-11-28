@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreadExample",
+            "request": "launch",
+            "mainClass": "Threads.ThreadExample",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "threadExcersice",
+            "request": "launch",
+            "mainClass": "Threads.threadExcersice",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "Excersicetwo",
+            "request": "launch",
+            "mainClass": "Serial.Excersicetwo",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "Excersiceone",
+            "request": "launch",
+            "mainClass": "Serial.Excersiceone",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "Deserialized",
+            "request": "launch",
+            "mainClass": "Serial.Deserialized",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
+            "name": "SerializedData",
+            "request": "launch",
+            "mainClass": "Serial.SerializedData",
+            "projectName": "JAVA PROGRAM_153bd3b8"
+        },
+        {
+            "type": "java",
             "name": "SynchronisationSampleMain",
             "request": "launch",
             "mainClass": "Threads.SynchronisationSampleMain",
