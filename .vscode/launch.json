@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SynchronisationSampleMain",
+            "request": "launch",
+            "mainClass": "Threads.SynchronisationSampleMain",
+            "projectName": "CORE-JAVA_91f12b7e"
+        },
+        {
+            "type": "java",
+            "name": "threadExcersice",
+            "request": "launch",
+            "mainClass": "Threads.threadExcersice",
+            "projectName": "CORE-JAVA_91f12b7e"
+        },
+        {
+            "type": "java",
             "name": "ThreadExample",
             "request": "launch",
             "mainClass": "Threads.ThreadExample",

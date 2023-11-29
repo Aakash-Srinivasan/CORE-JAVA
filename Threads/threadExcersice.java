@@ -2,7 +2,7 @@ package Threads;
 
 import String.name;
 
-public class threadExcersice implements Runnable{
+public class threadExcersice extends Thread{
     String threadname;
     Thread actualThread;
     Resourcesthread resorceThread;
@@ -28,14 +28,14 @@ public class threadExcersice implements Runnable{
             actualThread.run();
     
         }
-
+ 
     }
     public static void main(String[] args) throws InterruptedException {
        Resourcesthread actualthread=new Resourcesthread();
        threadExcersice tone=new threadExcersice("Thread -1",actualthread);
        threadExcersice ttwo=new threadExcersice("Thread -2",actualthread);
        tone.start();
-       Thread.sleep(5000);
+       ttwo.join();
        ttwo.start();
         }
     
